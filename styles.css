@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+p {
+    color: blue;
+}
+
+/* Select by class */
+.header {
+    font-size: 24px;
+}
+
+/* Select by ID */
+img{
+	width:200px;
+	height:200px;
+}
